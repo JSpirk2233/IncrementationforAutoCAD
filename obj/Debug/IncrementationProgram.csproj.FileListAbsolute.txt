@@ -1,0 +1,8 @@
+C:\Users\spirkj\source\repos\IncrementationProgram\bin\Debug\IncrementationProgram.dll
+C:\Users\spirkj\source\repos\IncrementationProgram\bin\Debug\IncrementationProgram.pdb
+C:\Users\spirkj\source\repos\IncrementationProgram\obj\Debug\IncrementationProgram.Form1.resources
+C:\Users\spirkj\source\repos\IncrementationProgram\obj\Debug\IncrementationProgram.csproj.GenerateResource.cache
+C:\Users\spirkj\source\repos\IncrementationProgram\obj\Debug\IncrementationProgram.csproj.CoreCompileInputs.cache
+C:\Users\spirkj\source\repos\IncrementationProgram\obj\Debug\IncrementationProgram.dll
+C:\Users\spirkj\source\repos\IncrementationProgram\obj\Debug\IncrementationProgram.pdb
+C:\Users\spirkj\source\repos\IncrementationProgram\obj\Debug\IncrementationProgram.csproj.AssemblyReference.cache
